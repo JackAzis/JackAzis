@@ -5,9 +5,8 @@
 - 📫 How to reach me jackaziss@gmail.com
 - 
 - Olá, me chamo Davi, tenho 28 anos, sou carioca.
-- Atualmente trabalho como gerente de um restaurante japonês
+- Estou cursando sistemas de informação pela UVA 
 - Iniciei meus estudos em Python em abril de 2022 pela plataforma curso em vídeo 
-- Procuro um boot Camp que eu possa mesclar com o trabalho.
 
 <!---
 JackAzis/JackAzis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
